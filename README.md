@@ -30,37 +30,8 @@ If the dataset is missing or empty, the pipeline generates a realistic sample da
 - Streamlit
 - Plotly
 
-## Screenshots
-
-Below are key visualizations produced by the dashboard and report generation steps.
-
-Forecast (6 months):
-
-![Forecast](dashboard/screenshot_forecast.png)
-
-Monthly sales trend:
-
-![Monthly Sales](reports/figures/monthly_sales.png)
-
-Category mix:
-
-![Category Mix](reports/figures/category_sales.png)
-
-Profit by region:
-
-![Profit by Region](reports/figures/profit_by_region.png)
-
-Top products:
-
-![Top Products](reports/figures/top_products.png)
-
-Correlation heatmap:
-
-![Correlation Heatmap](reports/figures/heatmap.png)
-
 ## Project Structure
 
-```
 Ecommerce_Sales_Analysis/
 ├── data/raw/
 ├── data/processed/
