@@ -120,4 +120,4 @@ streamlit run dashboard/app.py
 ## 👨‍💻 Author
 
 **Ansar Ullah**
-Data Science & Machine Learning Enthusiast
+Data Analytics & Machine Learning Enthusiast
